@@ -1,0 +1,25 @@
+{
+    "tasks": [
+        {
+            "id": "3c034668-0b59-41fb-88aa-50a2f4128ae6",
+            "status": "todo",
+            "created_at": "2025-11-08T16:18:00.303806",
+            "updated_at": "2025-11-08T16:18:00.303806",
+            "description": "Do dishes"
+        },
+        {
+            "id": "f7fcc2d0-d09b-47a6-a058-e8f3bf3372b6",
+            "status": "in-progress",
+            "created_at": "2025-11-08T16:19:26.600558",
+            "updated_at": "2025-11-08T16:19:26.600558",
+            "description": "Homework1"
+        },
+        {
+            "id": "a107df64-020d-4b2a-a357-a40d78518e70",
+            "status": "todo",
+            "created_at": "2025-11-08T16:20:11.614783",
+            "updated_at": "2025-11-08T16:20:11.614783",
+            "description": "Go gym"
+        }
+    ]
+}
